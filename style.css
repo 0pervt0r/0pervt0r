@@ -29,7 +29,7 @@ h1 {
 .blog-title {
   margin-bottom: 60px;
   padding: 20px;
-  background: linear-gradient(to #12697a, #ffffff);
+  background: color #12697a;
   color: #ffffff;
 }
 
