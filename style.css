@@ -15,3 +15,8 @@ h1 {
   font-size: 28px;
   font-color: solid #1abbaa;
 }
+
+font {
+  font-family: monospace;
+  font-color: solid white;
+}
