@@ -17,11 +17,6 @@ body {
   margin-bottom: 80px;
 }
 
-div {
-height: 200px;
-background: repeating-linear-gradient(45deg, black 0% 3%, yellow 3% 6%);
-}
-
 h1 {
   font-family: Impact, fantasy;
   color: #fffddd;
