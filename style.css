@@ -31,7 +31,7 @@ h1 {
   padding: 20px;
   background-color: #12697a;
   color: #ffffff;
-  backdrop-filter: blur 10px;
+  filter: blur 10px;
 }
 
 .center-text {
