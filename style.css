@@ -37,3 +37,10 @@ h1 {
 .center-text {
   text-align: center;
 }
+
+.texttt {
+  margin-bottom: 60px;
+  padding: 20px;
+  background-color: #fffddd;
+  color: #ffffff;
+}
