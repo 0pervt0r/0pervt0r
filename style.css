@@ -9,3 +9,9 @@ body {
   background: #f1c87d;
   color: #ff;
 }
+
+h1 {
+  font-family: Impact, fantasy;
+  font-size: 28px;
+  font-color: solid #1abbaa;
+}
