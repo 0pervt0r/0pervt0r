@@ -21,8 +21,12 @@ h1 {
   color: #122b54;
   font-size: 28px;
   
-}
+nav {
+  margin-bottom: 30px;
+  padding: 20px;
 
-p {
+  background-color: #fffddd;
+  border: 5px solid #f1c87d;
 
+  color: #ffffff;
 }
