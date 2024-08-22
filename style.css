@@ -29,15 +29,9 @@ h1 {
 .blog-title {
   margin-bottom: 60px;
   padding: 20px;
-  background-color: #12697a;
+  background: linear-gradient(to #12697a, white);
   color: #ffffff;
 }
-
-.layered-image {
-  background: linear-gradient(to right, transparent, mistyrose),
-  
-}
-
 
 .center-text {
   text-align: center;
