@@ -8,16 +8,20 @@
 body {
   background: #fffddd;
   color: #ff;
+  padding: 0 30px;
+  font-family: monospace;
+  color: #fff67e;
+  font-size: 15px;
+  
 }
 
 h1 {
   font-family: Impact, fantasy;
+  color: #1abbaa;
   font-size: 28px;
-  font-color: solid #1abbaa;
+  
 }
 
 p {
-  font-family: monospace;
-  font-size: 15px;
-  font-color: solid #fff67e;
+
 }
