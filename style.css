@@ -26,6 +26,10 @@ body {
   width: 60px;
 }
 
+h2 {
+font-family: Impact, fantasy;
+}
+
 .blog-title {
   margin-bottom: 60px;
   padding: 20px;
