@@ -21,17 +21,8 @@ body {
   font-family: Impact, fantasy;
   color: #fffddd;
   font-size: 35px;
-  margin-left: auto;
-  margin-right: auto;
   width: 60px;
 }
-
-.text-title {
-background: linear-gradient(270deg, #ffcf6f, #e463d9)!important;
--webkit-background-clip: text!important;
-
-}
-
 
 .blog-title {
   margin-bottom: 60px;
