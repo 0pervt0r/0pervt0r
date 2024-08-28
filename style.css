@@ -21,6 +21,8 @@ body {
   font-family: Impact, fantasy;
   color: #fffddd;
   font-size: 35px;
+  margin-left: auto;
+  margin-right: auto;
   width: 60px;
 }
 
