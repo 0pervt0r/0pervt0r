@@ -61,10 +61,6 @@ body {
   
 }
 
-body > * {
-  filter: blur(4px);
-  
-}
 
 .container {
   display: flex;
