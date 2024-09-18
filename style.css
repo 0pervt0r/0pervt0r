@@ -32,6 +32,12 @@ p {
 .fifth {
 }
 
+.glitch
+ -for(x = 0; x < 5; x++)
+  .glitch__item
+      
+ h1.glitch__title Glitch
+
 img {
   display: block;
   margin-left: auto;
