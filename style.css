@@ -13,6 +13,10 @@ p {
   text-align: justify ;
 }
 
+.photo-desc {
+  text-align: center; !important 
+}
+
 .first {
 }
 .second {
