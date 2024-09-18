@@ -11,9 +11,12 @@ p {
   font-family: 'Orbitron', sans-serif;
   font-size: 20px;
   text-align: justify ;
+  
 }
 
 .photo-desc {
+  color: #2a6a45;
+  font-size: 15px;
   text-align: center; !important 
 }
 
